@@ -33,8 +33,8 @@ See the PDF reports at https://github.com/LC-John/Notes-and-homeworks/tree/maste
 
 The original YUV pictures are shown as follow. The program perform fading-in, fading-out, and merging on them.
 
-[!image](https://github.com/LC-John/SIMD_YUV_Convertion/dem1.jpg)
-[!image](https://github.com/LC-John/SIMD_YUV_Convertion/dem2.jpg)
+[!image](https://github.com/LC-John/SIMD_YUV_Convertion/blob/master/images/dem1.png)
+[!image](https://github.com/LC-John/SIMD_YUV_Convertion/blob/master/images/dem2.png)
 
 ## Notice
 
